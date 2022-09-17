@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali-Sid
 - 👀 I’m interested in web development, xr & game development, and web3.
-- 🌱 I’m currently learning unreal engine, unity, backend development and blockchain technology.
+- 🌱 I’m currently learning unreal engine, unity and backend development
 - 💞️ I’m looking to collaborate on JavaScript, mern, go, unreal engine and unity.
 - 📫 How to reach me: Twitter: https://twitter.com/TheAliSiddiqui | LinkedIn: https://www.linkedin.com/in/thealisiddiqui/
 
