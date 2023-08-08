@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ali-Sid
-- 👀 I’m interested in web, app, xr & game development.
-- 🌱 I’m currently learning React.js, JavaScript, Unreal Engine, Unity and backend development
-- 💞️ I’m looking to collaborate on JavaScript, mern, go, unreal engine and unity.
+- 👀 I’m interested in Web, AI and Mobile App Development.
+- 🌱 I’m currently learning the MERN stack.
+- 💞️ I’m looking to collaborate on JavaScript and React.js
 - 📫 How to reach me: Twitter: https://twitter.com/TheAliSiddiqui | LinkedIn: https://www.linkedin.com/in/thealisiddiqui/
 
 <!---
