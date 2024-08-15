@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ali-Sid
 - 👀 I’m interested in Web App Development.
-- 🌱 I build Fullstack apps using MySQL, MSSQL, SQLite, IndexedDB (dexie.js), Node.js, React.js and Firebase.
+- 🌱 I build Fullstack apps using MySQL, MSSQL, SQLite, IndexedDB (dexie.js), Redux, Zustand, Node.js, React.js and Firebase.
 - 💞️ I’m looking to collaborate on JavaScript and React.js
 - 📫 How to reach me: Twitter: https://twitter.com/TheAliSiddiqui | LinkedIn: https://www.linkedin.com/in/thealisiddiqui/
 
